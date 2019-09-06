@@ -3,7 +3,6 @@
 
 <hr>
 
-<hr>
 
  # Uygulama hakkında 
  #### Girilen bir metin içerisinde ;
