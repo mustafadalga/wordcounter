@@ -10,6 +10,12 @@
 * Kullanılan kelimeleri,
 * En çok kullanılan kelimeleri listeyen bir uygulamadır.
 
+### Notlar
+* Python versiyonu:3.7.2
+* Django versiyonu:2.2.4
+
+
+
 ### Uygulama Görüntüleri
 
 
